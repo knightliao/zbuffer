@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Release
+/src/KnightZbuffer/Release
+/src/KnightZbuffer/Tmp_file
+*.opensdf
+/src/KnightZbuffer.ncb
+/src/KnightZbuffer.sdf
+/src/KnightZbuffer.suo
+/src/KnightZbuffer.v11.suo
+/bin
